@@ -1,7 +1,7 @@
 use std::io::stdin;
 fn main() {
     println!("Hello, world!");
-    //create var's
+    
     let mut valueOne:String = String::new();
     let mut valueTwo:String = String::new();
     let mut value:String    = String::new();
