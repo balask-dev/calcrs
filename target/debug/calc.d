@@ -1,0 +1,1 @@
+/home/razorb/Documents/Rust_projects/calculator_cli/calc/target/debug/calc: /home/razorb/Documents/Rust_projects/calculator_cli/calc/src/lib.rs /home/razorb/Documents/Rust_projects/calculator_cli/calc/src/main.rs
